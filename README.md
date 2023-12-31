@@ -1,2 +1,3 @@
-# git-tutorial
+# Git-tutorial
 Understanding git and Github
+
